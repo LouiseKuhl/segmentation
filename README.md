@@ -20,7 +20,7 @@ Les informations du patient sont imprimées sur l'image.
 1. Cloner le repo
 
 ```
-git clone https://github.com/esiuol/segmentation.git
+git clone https://github.com/LouiseKuhl/segmentation.git
 cd segmentation
 ```
 
